@@ -27,6 +27,7 @@ This project is inspired by:
  ### Phase 4: Train and test the model
 
  # Repository Structure
+ ```
  StockPredictor-DeepScalper/
 │── data/       # Stock market datasets
 │── models/     # Saved DeepScalper models
@@ -34,3 +35,4 @@ This project is inspired by:
 │── configs/    # Config files
 │── README.md   # Documentation
 │── requirements.txt  # Dependencies
+```
