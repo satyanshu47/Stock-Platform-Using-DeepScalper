@@ -14,7 +14,7 @@ This project is inspired by:
 ## 🚀 Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/StockPredictor-DeepScalper.git 
+   git clone https://github.com/SuperPowered-Cat/StockPredictor-DeepScalper.git 
 
 2. Install dependancies:
    ```sh
