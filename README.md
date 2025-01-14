@@ -21,10 +21,13 @@ This project is inspired by:
    pip install -r requirements.txt
 
 # 📌 Project Roadmap
- ### Phase 1: Collect 5 years of stock data (Yahoo Finance)
- ### Phase 2: Compute technical indicators using TA-Lib
- ### Phase 3: Implement DeepScalper for stock trading
- ### Phase 4: Train and test the model
+ ### Phase 1: Collect 5 years of stock data (Yahoo Finance) ✔️
+ ### Phase 2: Create Basic Frontend ✔️
+ ### Phase 3: Compute technical indicators using TA-Lib ✔️
+ ### Phase 4: Implement DeepScalper for stock trading ✔️
+ ### Phase 5: Train and test the model
+ ### Phase 6: Integrate model with advanced Frontend
+ ### Phase 7(optional): Hosting and Improvements
 
  # Repository Structure
  ```
