@@ -1,5 +1,5 @@
 # Stock Predictor using DeepScalper 🚀
-
+### Created by [Om Thakur](https://github.com/SuperPowered-Cat/), [Kumar Satyanshu](https://github.com/satyanshu47), [Meghansh Govil](https://github.com/MeghanshGovil) and [Divyansh Gupta](https://github.com/D-Expynos) using [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster/tree/1.0.0).
 This repository is a stock market prediction project using **DeepScalper**, a risk-aware deep reinforcement learning model. The project will:
 - Fetch and process **stock market data** (Yahoo Finance).
 - Compute **technical indicators** using **TA-Lib**.
